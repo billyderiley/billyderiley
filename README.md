@@ -11,6 +11,7 @@ Arraydio - A tool for music collectors to organise music by sounds, styles, genr
 SplitThat - An application designed to ease the process of splitting the cost of a service between a group of individuals. This was my final submission of coursework for the module COMP0015 'Intro to Programming in Java', as part of my BSc Neuroscience at UCL. SplitThat can hadnle mutiple users, allow for any type of bill to be split such as table bills, rental, or holiday expenses. It uses a fair-voting algorithm - essentially users enter what they believe they should pay, and outputs a table of what SplitThat thinks each user should pay,  after calculating voting weights.
 
 ⚡ I'm looking to collaborate ⚡
+
 Love music and AI as much as I do? I'm keen to work on anyone's audio ML project in any capacity whether thats providing a helping hand in code (Python, Java, SQL, C++), or acting as a test user in your project to provide feedback. Send a message!
 
 
